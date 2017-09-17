@@ -12,7 +12,7 @@ import java.net.UnknownHostException;
 import java.util.Scanner;
 
 /**
- * @path cn.tudu
+ * @path cn.tudu 王
  * @ClassName Client
  * @descriptiom 聊天室客户端
  * @author 【王永鑫】
@@ -34,7 +34,6 @@ public class Client
      */
     public Client()
     {
-
         /*
          * 实例化Socket就是与服务器端建立连接的过程,这里需要传递两个参数指定服务器端地址信息. 参数1:服务器端的连接ip;
          * 参数2:运行在服务器端的应用程序的端口
