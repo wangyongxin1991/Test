@@ -15,7 +15,7 @@ import java.util.Scanner;
  * @path cn.tudu 王
  * @ClassName Client
  * @descriptiom 聊天室客户端
- * @author 【王永鑫】
+ * @author 【王永鑫】第一次体检
  * @date 2017年9月14日 下午7:14:01
  */
 public class Client
